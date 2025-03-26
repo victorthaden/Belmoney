@@ -1,2 +1,2 @@
 # Belmoney
-Portfolio de Dataflow e Dashboards de Analytics &amp; Business Intelligence 
+Portfolio de Dataflow (Pentaho) e Dashboards de Analytics & Business Intelligence (Microsoft Power BI)
